@@ -1,0 +1,8 @@
+c:\users\marcos.guedes\documents\visual studio 2017\Projects\ADTest\ADTest\bin\Debug\ADTest.exe.config
+c:\users\marcos.guedes\documents\visual studio 2017\Projects\ADTest\ADTest\bin\Debug\ADTest.exe
+c:\users\marcos.guedes\documents\visual studio 2017\Projects\ADTest\ADTest\bin\Debug\ADTest.pdb
+c:\users\marcos.guedes\documents\visual studio 2017\Projects\ADTest\ADTest\obj\Debug\ADTest.csprojResolveAssemblyReference.cache
+c:\users\marcos.guedes\documents\visual studio 2017\Projects\ADTest\ADTest\obj\Debug\ADTest.Properties.Resources.resources
+c:\users\marcos.guedes\documents\visual studio 2017\Projects\ADTest\ADTest\obj\Debug\ADTest.csproj.GenerateResource.Cache
+c:\users\marcos.guedes\documents\visual studio 2017\Projects\ADTest\ADTest\obj\Debug\ADTest.exe
+c:\users\marcos.guedes\documents\visual studio 2017\Projects\ADTest\ADTest\obj\Debug\ADTest.pdb
